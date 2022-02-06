@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @farawayquack
+- 👀 I’m interested in Java and Python
+- 🌱 I’m currently learning Java
